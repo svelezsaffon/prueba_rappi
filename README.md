@@ -1,6 +1,8 @@
 # prueba_rappi
 
-Para hacer el ejercicio más completo, escribí un script que ejecuta el coding challenge con varios test cases y muestra su resultado, para hacer eso primero deberás clonar todos los archivo, pues necesita de los test cases para ser efectiva su ejecución
+Para hacer el ejercicio más completo, escribí un script que ejecuta el coding challenge con varios test cases y muestra su resultado, para hacer eso primero deberás clonar todos los archivo, pues necesita de los test cases para ser efectiva su ejecución, los test cases fueron descargados de hacker rank. 
+
+El scrip ademas de ejecutar el codigo, realiza las pruebas necesarias probando entrada del programa con resultados esperados.
 
 
 Acontinuacion estan todo los comando para clonar y ejecutar el coding challenge.
