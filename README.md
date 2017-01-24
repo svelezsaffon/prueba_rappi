@@ -5,8 +5,8 @@ Para hacer el ejercicio más completo, escribí un script que ejecuta el coding 
 
 Acontinuacion estan todo los comando para clonar y ejecutar el coding challenge.
 
-1)git clone https://svelezsaffon@bitbucket.org/svelezsaffon/imaginamos.git
+1)git clone https://github.com/svelezsaffon/prueba_rappi.git
 
-2)cd imaginamos/
+2)cd prueba_rapi/coding_challenge/
 
 3)./run_cube_summation.sh
